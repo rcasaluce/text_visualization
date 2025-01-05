@@ -8,7 +8,7 @@ This notebook analyzes IMDb movie reviews to understand the differences between 
 
 ## Scope of the project
 
-This project was created for educational purposes to enhance learning in data preprocessing, visualization, and sentiment analysis.
+This project was developed for educational purposes to enhance learning in data preprocessing, visualization, and sentiment analysis within the XAI course at Scuola Normale Superiore Pisa as part of the final project.
 
 ## Requirements
 
