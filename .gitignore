@@ -102,9 +102,6 @@ venv.bak/
 *.swp
 *~
 
-# Ignore specific Jupyter Notebook outputs if needed
-# Example: Ignore all HTML outputs generated from notebooks
-*.html
 
 # Ignore configuration files
 *.env
