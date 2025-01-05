@@ -5,6 +5,11 @@
 
 This notebook analyzes IMDb movie reviews to understand the differences between positive and negative sentiments. It includes data preprocessing, visualization of review lengths, word cloud generation, and an interactive ScatterText visualization to explore linguistic patterns.
 
+## Example of the ScatterText plot
+
+
+![New Diff Model](./img/scattertext_plot.png)
+
 
 ## Scope of the project
 
